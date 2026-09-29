@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#alert {
+    background-color: black;
+    color: white;
+    border-color: gray;
+    font-size: 28px;
+
+}
+.alert {
+    background-color: yellow;
+    color: black;
+    border-color: black;
+    font-size: 28px;
+
+}
